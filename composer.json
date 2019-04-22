@@ -1,0 +1,14 @@
+{
+	"name": "prolib/question-mark-replacer",
+	"type": "library",
+	"require": {
+		"php": ">= 7.1",
+		"nette/utils": "^3.0"
+	},
+	"autoload": {
+		"classmap": ["src/"]
+	},
+	"require-dev": {
+		"codeception/assert-throws": "^1.0"
+	}
+}
